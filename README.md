@@ -1,7 +1,7 @@
 
 # Ferramenta de Transcrição de Áudio para Texto
 
-Esta ferramenta foi desenvolvida para transcrever arquivos de áudio em texto utilizando a biblioteca Whisper, da OpenAI. O objetivo é facilitar a transcrição de entrevistas realizadas em áudio para texto, especialmente útil para estudantes de Nutrição que necessitam documentar entrevistas.
+Esta ferramenta foi desenvolvida para transcrever arquivos de áudio em texto utilizando a biblioteca Whisper, da OpenAI. O objetivo é facilitar a transcrição de entrevistas realizadas em áudio para texto, especialmente útil para estudantes que necessitam documentar entrevistas.
 
 ## Requisitos
 
