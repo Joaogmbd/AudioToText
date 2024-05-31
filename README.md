@@ -70,6 +70,3 @@ if __name__ == "__main__":
 
 Os modelos disponíveis no Whisper variam em tamanho e precisão. Para a maioria das aplicações, os modelos `base` ou `small` são suficientes, mas você pode optar por modelos maiores como `medium` ou `large` se precisar de maior precisão.
 
-### Contato
-
-Para mais informações ou ajuda, entre em contato com [seu email ou contato preferido].
