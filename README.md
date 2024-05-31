@@ -9,8 +9,7 @@ Para utilizar esta ferramenta, você precisa ter o seguinte instalado em seu amb
 
 - Python 3.x
 - Biblioteca Whisper da OpenAI
-- Dependências do Whisper (geralmente `torch`)
-
+- 
 Você pode instalar a biblioteca Whisper utilizando pip:
 
 ```bash
